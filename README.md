@@ -10,7 +10,7 @@ Esta versión de RouteFlow es una versión de desarrolladores destinados a evalu
 Usted puede aprender más sobre RouteFlow en el siguiente Blog (http://routeflowproxyforonos.blogspot.com/)
 
  
-#  visión general de distribución
+#  Visión general de distribución
  RouteFlow es una distribución compuesta por tres aplicaciones básicas: RFClient, RFServer y RFProxy.
  
  * RFClient ejecuta como un demonio en la máquina virtual (VM), la detección de cambios en el Linux ARP y tablas de enrutamiento. Información de enrutamiento se envía al RFServer cuando hay una actualización.
