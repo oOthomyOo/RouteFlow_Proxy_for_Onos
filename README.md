@@ -7,9 +7,8 @@ Cualquier consulta, ayuda, aporte, comentario, critica sobre este tema sera acep
 #  Bienvenidos
 Esta versión de RouteFlow es una versión de desarrolladores destinados a evaluar RouteFlow para proporcionar servicios de enrutamiento IP virtualizados en uno o más interruptores OpenFlow.
  
-Usted puede aprender más sobre RouteFlow en nuestra [ página principal en GitHub ] (http://cpqd.github.com/RouteFlow/) y en nuestra [ página web ] (https://sites.google.com/site/routeflow/) .
- 
- Tenga en cuenta de POX, OpenFlow, abierto vSwitch, Quagga, MongoDB, jQuery, JIT y RouteFlow licencias y términos.
+Usted puede aprender más sobre RouteFlow en el siguiente Blog (http://routeflowproxyforonos.blogspot.com/)
+
  
 #  visión general de distribución
  RouteFlow es una distribución compuesta por tres aplicaciones básicas: RFClient, RFServer y RFProxy.
@@ -22,4 +21,3 @@ Usted puede aprender más sobre RouteFlow en nuestra [ página principal en GitH
  
 También hay una biblioteca de funciones comunes (rflib). Tiene implementaciones del IPC, utilidades como tipos personalizados para IP y direcciones MAC manipulación y creación de mensajes OpenFlow.
  
-Además, hay `rfweb` , un módulo adicional que proporciona una interfaz web para RouteFlow.
